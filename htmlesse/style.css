@@ -1,0 +1,28 @@
+h1 {
+    color: rgb(44, 71, 72);
+    text-align: center;
+}
+p {
+    color: rgb(0, 85, 85);
+    text-align: center;
+    font-size: larger;
+}
+h2 {
+    color: rgb(44, 71, 72);
+    text-align: center;
+    font-size: larger;
+}
+h3 {
+    color: rgb(44, 71, 72);
+    text-align: center;
+    font-size: larger;
+}
+h4 {
+    color: rgb(44, 71, 72);
+    text-align: center;
+    font-size: larger;
+}
+img {
+    width: 600px;
+    position: relative; left: 300px;
+}
